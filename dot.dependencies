@@ -8,11 +8,7 @@
     "target_path": "kernel/motorola/msm8916"
   },
   {
-    "repository":  "proprietary_vendor_motorola_osprey",
-    "target_path": "vendor/motorola/osprey"
-  },
-  {
-    "repository":  "android_external_sony_boringssl-compat",
-    "target_path": "external/sony/boringssl-compat"
+    "repository":  "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
   }
 ]
